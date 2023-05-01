@@ -16,7 +16,7 @@ The picture below shows the datasets in a datalake folder:
 
 ![Figure 1: Files within in the datalake folder.](https://user-images.githubusercontent.com/45640708/208963018-583a7544-850b-4f8f-950a-d82489744919.png)
 
-In order to do the analysis, a connection between the **Dremio** and Hadoop DataLake was stablished in localhost. The next picture shows the DataLake contents through the Dremio and its physical datasets. 
+In order to do the analysis, a connection between the **Dremio** (in Docker) and Hadoop DataLake was stablished in localhost. The next picture shows the DataLake contents through the Dremio and its physical datasets. 
 
 ![Figure 2: Physical datasets.](https://user-images.githubusercontent.com/45640708/208965889-4048ef97-3122-489d-a96c-8f3a61a46f32.png)
 
