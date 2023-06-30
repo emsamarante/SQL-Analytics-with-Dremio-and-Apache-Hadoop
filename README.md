@@ -1,4 +1,4 @@
-# SQL-Analytics-with-Dremio-and-Apache-Hadoop
+# SQL Analytic wit Dremio and Apache Hadoop
 **This project is a data archictect project using the Dremio to analyze data with SQL language. A Hadoop DataLake was set up to storage the datasets. The ratings dataset has over 20M of records.**
 <br>
 <br>
